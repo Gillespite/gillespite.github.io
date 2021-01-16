@@ -100,3 +100,5 @@ friends: [
         href: "https://www.apple.com.cn"
     }
 ]
+
+theme: jekyll-theme-cayman
